@@ -1,0 +1,52 @@
+{
+  "TC_E2E_001_Verify_End_To_End_Flow": [
+    {
+      "No.": "Data1",
+      "InitialComputerName": "Asus Vivobook E203MA",
+      "InitialIntroducedDate": "2015-09-15",
+      "InitialDiscontinuedDate": "2018-12-12",
+      "InitialCompany": "ASUS",
+      "NewComputerName": "Sony VAIO E Series SVE14135CXP",
+      "NewIntroducedDate": "2010-01-01",
+      "NewDiscontinuedDate": "2019-12-12",
+      "NewCompany": "Sony",
+      "AddComputerPageHeading": "Add a computer",
+      "EditComputerPageHeading": "Edit computer",
+      "DeletingSuccessfulMsg": "Done! Computer has been deleted",
+      "AddingSuccessfulMsg": "Done! Computer <computer_name> has been created",
+      "EditingSuccessfulMsg": "Done! Computer <computer_name> has been updated"
+    },
+    {
+      "No.": "Data2",
+      "InitialComputerName": "DELL Inspiron 7790",
+      "InitialIntroducedDate": "",
+      "InitialDiscontinuedDate": "",
+      "InitialCompany": "",
+      "NewComputerName": "SKIP",
+      "NewIntroducedDate": "2020-01-01",
+      "NewDiscontinuedDate": "SKIP",
+      "NewCompany": "SKIP",
+      "AddComputerPageHeading": "Add a computer",
+      "EditComputerPageHeading": "Edit computer",
+      "DeletingSuccessfulMsg": "Done! Computer has been deleted",
+      "AddingSuccessfulMsg": "Done! Computer <computer_name> has been created",
+      "EditingSuccessfulMsg": "Done! Computer <computer_name> has been updated"
+    }
+  , {
+      "No.": "Data3",
+      "InitialComputerName": "Apple MacBook Air",
+      "InitialIntroducedDate": "2008-12-05",
+      "InitialDiscontinuedDate": "2018-02-12",
+      "InitialCompany": "Apple Inc.",
+      "NewComputerName": "SKIP",
+      "NewIntroducedDate": "",
+      "NewDiscontinuedDate": "",
+      "NewCompany": "",
+      "AddComputerPageHeading": "Add a computer",
+      "EditComputerPageHeading": "Edit computer",
+      "DeletingSuccessfulMsg": "Done! Computer has been deleted",
+      "AddingSuccessfulMsg": "Done! Computer <computer_name> has been created",
+      "EditingSuccessfulMsg": "Done! Computer <computer_name> has been updated"
+    }
+  ]
+}

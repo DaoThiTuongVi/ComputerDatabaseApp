@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite" parallel="tests" thread-count="2">
+
+    <listeners>
+        <listener class-name="com.common.TestListener"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="D:/Automated testing online/Projects/CDUIAutomation/resources/suites">
+        <classes>
+            <class name="com.modules.end_to_end_flow.TC_E2E_001_Verify_End_To_End_Flow"></class>
+        </classes>
+    </test>
+</suite>
