@@ -1,4 +1,4 @@
-package com.modules.end_to_end_flow;
+package com.tests;
 
 import com.common.BaseTest;
 import com.common.GlobalVariables;

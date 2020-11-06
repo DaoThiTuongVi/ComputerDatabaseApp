@@ -9,7 +9,7 @@
 
     <test verbose="2" preserve-order="true" name="D:/Automated testing online/Projects/CDUIAutomation/resources/suites">
         <classes>
-            <class name="com.modules.end_to_end_flow.TC_E2E_001_Verify_End_To_End_Flow"></class>
+            <class name="com.tests.TC_E2E_001_Verify_End_To_End_Flow"></class>
         </classes>
     </test>
 </suite>
